@@ -1,4 +1,4 @@
-# Angular SPA Apps page
+# Angular SPA Weather page - Services tutorial
 
 Lesson №3 from CodeCademy on Angular 1
 
